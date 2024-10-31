@@ -1,0 +1,14 @@
+body{
+    color: aqua;
+    background-color: coral;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: #122542;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+strong{
+    text-decoration: antiquewhite;
+}
