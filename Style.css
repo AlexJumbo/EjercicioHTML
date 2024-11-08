@@ -1,11 +1,11 @@
 body{
-    color: rgb(59, 190, 19);
-    background-color: rgb(147, 211, 208);
+    color: rgb(221, 67, 101);
+    background-color: rgb(204, 211, 231);
     font-family: 'Times New Roman', Times, serif;
 }
 
 p{
-    color: #122542;
+    color: #29528f;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -20,7 +20,29 @@ ul{
 }
 
 dt{
-    color: darkblue;
+    color: rgb(241, 151, 151);
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+}
+
+footer{
+    text-align: center;
+}
+
+.destacado{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#Localizacion{
+    color: rgb(2, 1, 43);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.container{
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
