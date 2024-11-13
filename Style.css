@@ -46,3 +46,17 @@ footer{
     max-width: 800px;
     margin: 0 auto;
 }
+
+.span{
+    color: black;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.boton{
+    color: blueviolet;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size:medium ;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
